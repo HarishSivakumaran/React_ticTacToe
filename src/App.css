@@ -1,0 +1,28 @@
+.Application{
+  background-color: #16697A;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  width: 300px;
+  padding: 10px;
+  background-color: #FFA62B;
+  border-radius: 15px;
+  color: black; 
+}
+
+.CardIcon{
+  background-color: azure;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  height: 100px;
+  border-radius: 20px;
+  margin: 5px;
+}
